@@ -10,5 +10,4 @@ Liste des attributs disponibles et accessibles par la bibliothèque `Forquantum`
 
 Matrices $\gamma$ :
 
-
-#### TODO: Ajouter calculs symboliques
+#### TODO: Ajouter calculs symboliquess
